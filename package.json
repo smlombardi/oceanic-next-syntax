@@ -1,8 +1,8 @@
 {
   "name": "oceanic-next",
   "theme": "syntax",
-  "version": "0.8.0",
-  "description": "Based on the Textmate ES6 theme",
+  "version": "0.0.0",
+  "description": "Based on the Sublime Text theme",
   "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
   "license": "MIT",
   "engines": {
