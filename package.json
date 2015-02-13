@@ -1,7 +1,7 @@
 {
   "name": "oceanic-next-syntax",
   "theme": "syntax",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "description": "Based on the Textmate ES6 theme",
   "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
   "license": "MIT",
