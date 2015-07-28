@@ -1,7 +1,7 @@
 {
   "name": "oceanic-next",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Based on the Sublime Text theme",
   "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
   "license": "MIT",
