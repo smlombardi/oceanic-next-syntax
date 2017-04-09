@@ -4,11 +4,11 @@ Based on the textmate theme by Voronianski [https://github.com/voronianski/ocean
 
 ## Screenshots
 
-###SCSS
+### SCSS
 ![image](https://raw.githubusercontent.com/smlombardi/oceanic-next-syntax/master/screenshots/scss.png)
 
-###HTML
+### HTML
 ![image](https://raw.githubusercontent.com/smlombardi/oceanic-next-syntax/master/screenshots/html.png)
 
-###JS
+### JS
 ![image](https://raw.githubusercontent.com/smlombardi/oceanic-next-syntax/master/screenshots/js.png)
